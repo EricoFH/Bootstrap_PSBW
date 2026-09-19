@@ -1,12 +1,10 @@
-# Website Sistem Informasi
-
-Ini adalah project website sederhana yang saya buat untuk tugas perkuliahan. Website ini dibuat untuk mempraktikkan penggunaan HTML, CSS, JavaScript, dan Bootstrap dalam membuat sebuah halaman web.
+Ini adalah project website sederhana yang dibuat untuk tugas perkuliahan. Website ini dibuat untuk mempraktikkan penggunaan HTML, CSS, JavaScript, dan Bootstrap dalam membuat sebuah halaman web.
 
 ## Tentang Website
 
 Website ini berisi beberapa informasi yang berkaitan dengan data akademik, seperti mata kuliah dan nilai. Selain menampilkan informasi, saya juga mencoba menerapkan beberapa layout dan komponen agar website terlihat lebih rapi dan mudah digunakan.
 
-Project ini juga saya gunakan untuk belajar bagaimana sebuah website sederhana bisa dipublikasikan secara online menggunakan GitHub Pages.
+Project ini juga digunakan untuk belajar bagaimana sebuah website sederhana bisa dipublikasikan secara online menggunakan GitHub Pages.
 
 ## Yang Digunakan
 
