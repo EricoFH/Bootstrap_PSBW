@@ -1,4 +1,4 @@
-Ini adalah project website sederhana yang dibuat untuk tugas perkuliahan. Website ini dibuat untuk mempraktikkan penggunaan HTML, CSS, JavaScript, dan Bootstrap dalam membuat sebuah halaman web.
+Ini adalah project website sederhana yang dibuat untuk tugas perkuliahan. Website ini dibuat untuk mempraktikkan penggunaan HTML, CSS, dan Bootstrap dalam membuat sebuah halaman web.
 
 ## Tentang Website
 
@@ -12,9 +12,8 @@ Beberapa teknologi yang digunakan dalam project ini:
 
 * HTML untuk membuat struktur halaman
 * CSS untuk mengatur tampilan dan layout
-* JavaScript untuk bagian yang membutuhkan interaksi
 * Bootstrap untuk membantu membuat beberapa bagian tampilan
-* GitHub Pages untuk menjalankan website secara online
+* GitHub Pages untuk menjalankan website secara online, meskipun ini opsional
 
 ## Isi Project
 
